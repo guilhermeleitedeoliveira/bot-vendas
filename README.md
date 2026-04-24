@@ -4,7 +4,7 @@ import random
 import time
 
 import os
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8694943382:AAGv_C5vEloZIoC9Bob0RsnfWw3F9rRA3Kg")
 
 produtos = [
     {
