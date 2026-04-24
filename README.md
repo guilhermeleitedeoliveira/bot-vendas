@@ -8,9 +8,9 @@ TOKEN = os.getenv("8694943382:AAGv_C5vEloZIoC9Bob0RsnfWw3F9rRA3Kg")
 
 produtos = [
     {
-        "nome": "Fone Bluetooth",
-        "preco": "R$49,90",
-        "link": "SEU_LINK_AFILIADO"
+        "nome": "Creatina Monohidratada 250g Growth Supplements - Sem sabor em Pó"
+        "preco": "R$34,90",
+        "link": "https://meli.la/261Upnw"
     },
 ]
 
