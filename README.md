@@ -3,8 +3,8 @@ import telebot
 import random
 import time
 
-TOKEN = "8694943382:AAGv_C5vEloZIoC9Bob0RsnfWw3F9rRA3Kg"
-bot = telebot.TeleBot(TOKEN)
+import os
+TOKEN = os.getenv("TOKEN")
 
 produtos = [
     {
